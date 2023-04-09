@@ -9,7 +9,6 @@ html {
     scroll-behavior: smooth;
   }
 /**Navbar**/
-
 nav{
     background-color: black;
     color: white;
@@ -360,3 +359,6 @@ footer{
         width: 300px !important;
         height: 350px !important;
       }
+      header{
+        padding-top: 5rem;
+    }
