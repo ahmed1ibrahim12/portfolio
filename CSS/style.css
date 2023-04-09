@@ -328,7 +328,30 @@ footer{
 }
 /**Navbar**/
 @media only screen and (max-width: 600px) {
-    .dropdown-content p{
-        min-width: 100% !important;
+    .header-div2 img{
+        width: 100%;
+    }
+    .about-container{
+        display: block;
+    }
+    .aboutside{
+        width: 100%;
+    }
+    .card{
+    padding-bottom: 1rem;
+    }
+    .footer-div{
+        width: 15%;
+        font-size:large;
+        font-weight: bolder;
+        padding: 0.5rem;
+        color: white;
+        text-decoration: none;
+    }
+    .footer-div1{
+        width: 45%;
+    }
+    .footer-div2{
+        width: 40%;
     }
   }
